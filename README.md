@@ -46,7 +46,7 @@ Building Creatorverse was a great learning experience. Connecting React with Sup
 
 ## License
 
-Copyright 2025 Tesfatsion Desta
+Copyright 2026 Tesfatsion Desta
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
